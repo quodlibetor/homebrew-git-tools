@@ -1,2 +1,3 @@
 # homebrew-git-tools
-Homebrew tap for my git tools.
+
+Migrated to quodlibetor/tap
